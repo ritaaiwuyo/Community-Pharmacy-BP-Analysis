@@ -63,7 +63,6 @@ Examines longitudinal BP changes among returning patients, including baseline-to
 This is an observational analysis of routinely collected community pharmacy data. Changes in BP during follow-up should not be interpreted as evidence of treatment effectiveness or medication effect because information on adherence, medication dose, treatment duration, comorbidities and other potential explanatory factors was not available.
 
 ## Author
-Dr. Rita.O.Aiwuyo
 
 **Dr. Rita Aiwuyo, PharmD, R.Ph**  
 Licensed Pharmacist | Healthcare Data Analyst | Public Health Professional
