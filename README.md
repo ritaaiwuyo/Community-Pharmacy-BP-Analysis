@@ -54,10 +54,12 @@ The Power BI report contains two analytical pages:
 
 ### 1. BP & Patient Overview
 Provides an overview of patient demographics, BP classifications, encounter patterns and follow-up participation.
+
 ![BP & Patient Overview](BP_Patient_Overview.png)
 
 ### 2. Follow-up & BP Change
 Examines longitudinal BP changes among returning patients, including baseline-to-latest BP comparison and follow-up status by sex.
+
 ![Follow-up & BP Change](Followup_BP_Change.png)
 
 ## Important Interpretation Note
